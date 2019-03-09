@@ -1,0 +1,74 @@
+body{
+    width: 100%;
+    height: 100%;
+}
+
+.centrador{
+    text-align: center;
+    margin-top: 1%;
+    margin-bottom: -0.5%;
+  }
+
+
+.corporativas{
+    border-style:solid;
+    border-color:#1f8ac0;
+    margin-left: 4.2%;
+    margin-right: 5%;
+    margin-top: 30%;
+    margin-bottom: 5%;
+    background:#1f8ac0;
+    text-align: center;
+    text-align: left;
+    color:white;
+    }
+.letras{
+  margin-left: 28%;
+  margin-top: 5%;
+  margin-right: 10%;
+  align-content: flex-start;
+}
+.letras2{
+  margin-left: 28%;
+  margin-top: 3%;
+  margin-right: 10%;
+  align-content: flex-start;
+}
+
+.tabla{
+  margin-left: 10%;
+  margin-right: 5%;
+  margin-top: 5%;
+  width:80%;
+  text-align: center;
+}
+
+.botonserie{
+  margin-left: 10%;
+  margin-right: 5%;
+  margin-top: 5%;
+  width:80%;
+  text-align: center;
+
+}
+
+  
+
+  .btn-secondary
+  {
+    background-color: #391e8c; 
+    border-color: #ba93d2;
+  }
+  .btn-secondary:hover
+  {
+    background-color: #ba93d2; 
+    border-color: #ba93d2;
+  }
+  
+  .table-bordered {
+    border: 1px solid #dee2e6;
+
+  
+  }
+
+}
